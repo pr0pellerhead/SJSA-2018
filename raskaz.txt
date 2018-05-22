@@ -1,15 +1,5 @@
 si beshe ednash edno zajche...
 
 I si imashe dolgi ushi...i ubavi trepki
-<<<<<<< HEAD
 Zajcheto reche "hahaha" !!! i izbega vo shumata
-I se pojavi vokot !!!
-=======
-<<<<<<< HEAD
-Zajcheto reche "hahaha" !!! i izbega vo shumata
-
-End of story.
-=======
-Zajcheto reche "hohohohohoho" !!! i izbega vo shumata
->>>>>>> 0f7bd5c997306814437a442f627b302b6b39bcba
->>>>>>> a9be111178bfe39cfcb96c8dbe130f569b2aa08c
+I se pojavi volkot !!!
