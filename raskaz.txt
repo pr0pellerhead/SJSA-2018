@@ -1,11 +1,8 @@
 si beshe ednash edno zajche...
 
 I si imashe dolgi ushi...i ubavi trepki
-<<<<<<< HEAD
 Zajcheto reche "hahaha" !!! i izbega vo shumata
 
 End of story.
-=======
-Zajcheto reche "hohohohohoho" !!! i izbega vo shumata
->>>>>>> 0f7bd5c997306814437a442f627b302b6b39bcba
 hop hop,ripna zajacheto do prviot terminal
+Se zaprasa dali e samo
