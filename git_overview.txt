@@ -1,0 +1,38 @@
+# Clone an online repository to your computer / download
+git clone <URL/SSH> 
+
+# work work work... add some files... work work work
+
+# Add files to stage (stage files)
+git add <filename> <filename> <filename>...
+
+# commit files to (push) upload - create a (save) copy of the project
+git commit -m '<commit message>...'
+
+# BEFORE YOU PUSH YOU MUST PULL FIRST!!!
+git pull
+# and if everything is ok... (no conflicts)
+git push
+
+
+# branching
+# every new feature deserves a branch of it's own
+
+# create a branch
+git checkout -b <branch name>
+
+# when on a branch pull and push differe from the ones previously mentioned
+git pull origin <branch name>
+git push origin <branch name>
+
+# change the branch from <branch name> to the master branch
+git checkout master
+
+# merge your new branch to master
+git merge <branch name>
+
+# to list all available local branches
+git branch
+
+# for more info
+man git
